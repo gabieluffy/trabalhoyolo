@@ -83,4 +83,4 @@ O projeto demonstra a integração bem-sucedida de IA, backend e frontend em uma
     • Ultralytics YOLOv5: https://github.com/ultralytics/yolov5
     • Flask: https://flask.palletsprojects.com
     • ReportLab: https://www.reportlab.com
-    • Projeto base: https://github.com/sergioyi/fullstack-with-yolo
+    • Projeto base: https://github.com/gabieluffy/trabalhoyolo.git
